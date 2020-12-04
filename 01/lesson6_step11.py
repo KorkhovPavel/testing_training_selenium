@@ -1,3 +1,7 @@
+# Тест успешно проходит на странице http://suninjuly.github.io/registration1.html
+# Тест падает с ошибкой NoSuchElementException http://suninjuly.github.io/registration2.html
+# Используемые селекторы должны быть уникальны
+
 # функция запускает две ссылки по очереди первая = "http://suninjuly.github.io/registration1.html",
 # вторая = "http://suninjuly.github.io/registration2.html"
 # на второй ссылке останавливается т.к поле 'Last name*' отсутвует ошибка: selenium.common.exceptions.
